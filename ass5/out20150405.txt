@@ -1,0 +1,21 @@
+potato leek soup 6.0 euros
+marinated fig, pistachio, boston scarlet 10.5 euros
+grilled romaine, tomato jam, ricotta 9.75 euros
+gnocchi mushroom and cherry tomato 11.25 euros
+beef tartare, wasabi mayo 12.0 euros
+lamb merguez, cauliflower, cabbage 12.0 euros
+boar sausage and bourbon mustard 11.25 euros
+confit rabbit, orzo 11.25 euros
+lamb berbere and lentil 9.75 euros
+grilled hanger steak, frites, aioli 12.0 euros
+mussels apple butter 9.75 euros
+grilled squid and quinoa 9.75 euros
+mahi-mahi orange, star anise 12.0 euros
+salmon, artichoke, leek, mustard 13.5 euros
+apple berry strudel 5.25 euros
+cheesecake, almond 6.0 euros
+boca negra, hazelnut gelato 6.0 euros
+bread pudding 5.25 euros
+chocolate pate 6.0 euros
+pure gelato 6.0 euros
+{3: 4, 4: 2, 5: 3, 7: 1}
